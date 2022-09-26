@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RD8SHICXYnBeSEu66FUJVZqxv3gM4kqRzgO1cag5hUtL5h/e5pRQEzk+d/BivDa3PQas7xQWfMJyYYI7Uh+YAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Russell\\RiderProjects\\WPF MVVM Template\\WPF MVVM Template\\WPF MVVM Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Russell\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

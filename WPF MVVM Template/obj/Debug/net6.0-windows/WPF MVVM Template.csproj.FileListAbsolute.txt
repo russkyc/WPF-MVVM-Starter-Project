@@ -1,0 +1,22 @@
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\bin\Debug\net6.0-windows\WPF MVVM Template.exe
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\bin\Debug\net6.0-windows\WPF MVVM Template.deps.json
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\bin\Debug\net6.0-windows\WPF MVVM Template.runtimeconfig.json
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\bin\Debug\net6.0-windows\WPF MVVM Template.dll
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\bin\Debug\net6.0-windows\WPF MVVM Template.pdb
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.csproj.AssemblyReference.cache
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template_MarkupCompile.cache
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.g.resources
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.AssemblyInfoInputs.cache
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.AssemblyInfo.cs
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.csproj.CoreCompileInputs.cache
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.csproj.CopyComplete
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.dll
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\refint\WPF MVVM Template.dll
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.pdb
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\WPF MVVM Template.genruntimeconfig.cache
+C:\Users\Russell\RiderProjects\WPF MVVM Template\WPF MVVM Template\obj\Debug\net6.0-windows\ref\WPF MVVM Template.dll
